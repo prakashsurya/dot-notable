@@ -15,5 +15,3 @@ title: delphix/next
 ## Reviews
 
 ## Waiting
-
-* [DLPX-65887](projects/DLPX-65887.md)
