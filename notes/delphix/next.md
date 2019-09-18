@@ -14,4 +14,8 @@ title: delphix/next
 
 ## Reviews
 
+* https://github.com/delphix/delphix-platform/pull/139
+* https://github.com/delphix/appliance-build/pull/363
+* http://reviews.delphix.com/r/52590/
+
 ## Waiting
