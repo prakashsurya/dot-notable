@@ -2,7 +2,7 @@
 pinned: true
 title: delphix/next
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-09-19T02:27:34.887Z'
+modified: '2019-09-19T21:56:41.500Z'
 ---
 
 ## Misc Tasks
@@ -14,8 +14,7 @@ modified: '2019-09-19T02:27:34.887Z'
 
 ## Reviews
 
-* http://reviews.delphix.com/r/52325/
-* https://github.com/delphix/delphix-platform/pull/133
+* https://github.com/delphix/sdb/pull/6
 
 ## Waiting
 
