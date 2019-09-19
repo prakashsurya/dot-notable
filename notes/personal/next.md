@@ -1,18 +1,15 @@
 ---
 pinned: true
 title: personal/next
+created: '1970-01-01T00:00:00.000Z'
+modified: '2019-09-18T18:20:16.200Z'
 ---
 
 ## Misc
 
-* Get place for dodgers game
-* Pay bills
-* Change engine oil in truck
 * Put bike on battery tender
-* Elena's perscription
 * Pay mortgage due 10/1
 * Review HSA card
-* Schedule to fix Beth's car (center console)
 * Call about refinancing
   * BofA
   * Nevada One CU
