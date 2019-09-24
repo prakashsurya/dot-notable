@@ -2,7 +2,7 @@
 pinned: true
 title: personal/next
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-09-18T18:20:16.200Z'
+modified: '2019-09-23T22:22:16.749Z'
 ---
 
 ## Misc
@@ -21,3 +21,4 @@ modified: '2019-09-18T18:20:16.200Z'
     * cost of pool
     * cost of cars
 * Fix humming bird for girls' room
+* https://www.silveradosierra.com/under-construcktion/jlarsen-s-2018-chevy-duramax-build-t673658.html

@@ -8,6 +8,9 @@ title: personal/notes/truck-wishlist
 * [Expedition One Dual Swing Rear Bumper](https://expeditiononestore.com/products/16-chevy-3500-dual-swing-rear-bumper)
   * $2,499.99 base price
 
+* ['07 ½-18 Chevy/GM 2500/3500 SDHQ Built In Bed Chase Rack](https://sdhqoffroad.com/collections/chevy-gm-2500-3500-bed-accessories/products/07-18-chevy-gm-2500-3500-sdhq-built-in-bed-chase-rack)
+  * $1,365.00 base price
+
 * [Fab Fours Matrix Front Bumper](https://fabfours.com/product/chevy-hd-matrix-front-bumper)
   * $2,200 base price
 
