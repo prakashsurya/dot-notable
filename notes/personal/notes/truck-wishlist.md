@@ -1,9 +1,16 @@
 ---
 title: personal/notes/truck-wishlist
+created: '1970-01-01T00:00:00.000Z'
+modified: '2019-09-30T16:16:19.496Z'
 ---
 
 * [BDS 6.5" Coilover Conversion System](http://bds-suspension.com/product?ma=5&mo=27&ty=1&yr=2011-2019)
   * $6,315.69 base price
+
+* [Camburg Chevy/GMC 2500/3500 HD 2wd/4wd 11-19 Steering Upgrade Kit](https://camburg.com/shop/suspension/camburg-chevy-2500-hd-2wd-4wd-11-19-steering-upgrade-kit/)
+  * $525.00 base price
+
+* [HEAVY DUTY TRUCK STEERING & SUSPENSION](http://rareparts.com/gm-steering)
 
 * [Expedition One Dual Swing Rear Bumper](https://expeditiononestore.com/products/16-chevy-3500-dual-swing-rear-bumper)
   * $2,499.99 base price
@@ -29,3 +36,5 @@ title: personal/notes/truck-wishlist
   * $714.95
   * [Floor Bracket](https://powertank.com/collections/power-tank-co2-brackets/products/bkt-2400-1)
     * $170.45
+
+* https://www.silveradosierra.com/under-construcktion/jlarsen-s-2018-chevy-duramax-build-t673658-220.html
