@@ -1,7 +1,7 @@
 ---
 title: personal/notes/truck-wishlist
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-09-30T16:16:19.496Z'
+modified: '2019-10-02T15:15:30.780Z'
 ---
 
 * [BDS 6.5" Coilover Conversion System](http://bds-suspension.com/product?ma=5&mo=27&ty=1&yr=2011-2019)
@@ -12,11 +12,19 @@ modified: '2019-09-30T16:16:19.496Z'
 
 * [HEAVY DUTY TRUCK STEERING & SUSPENSION](http://rareparts.com/gm-steering)
 
+* [Nitto Ridge Grappler Light Truck Tire](https://www.nittotire.com/light-truck-tires/ridge-grappler-light-truck-tire/)
+
+* [Method Race Wheels 701](https://www.methodracewheels.com/products/701-matte-black)
+  * $217.20 base price
+
 * [Expedition One Dual Swing Rear Bumper](https://expeditiononestore.com/products/16-chevy-3500-dual-swing-rear-bumper)
   * $2,499.99 base price
 
 * ['07 ½-18 Chevy/GM 2500/3500 SDHQ Built In Bed Chase Rack](https://sdhqoffroad.com/collections/chevy-gm-2500-3500-bed-accessories/products/07-18-chevy-gm-2500-3500-sdhq-built-in-bed-chase-rack)
   * $1,365.00 base price
+
+* [Universal Tire Carrier](https://www.addictivedesertdesigns.com/universal-truck-tire-carrier-T99918NA01NA)
+  * $524.97 base price
 
 * [Fab Fours Matrix Front Bumper](https://fabfours.com/product/chevy-hd-matrix-front-bumper)
   * $2,200 base price
