@@ -2,7 +2,7 @@
 pinned: true
 title: delphix/next
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-10-04T15:28:11.372Z'
+modified: '2019-10-07T21:08:06.753Z'
 ---
 
 ## Misc Tasks
@@ -14,13 +14,9 @@ modified: '2019-10-04T15:28:11.372Z'
 
 ## Projects (Current)
 
-* [DLPX-66533](https://jira.delphix.com/browse/DLPX-66533)
+* [DLPX-64219](https://jira.delphix.com/browse/DLPX-64219)
 
 ## Projects (Maybe)
-
-* [DLPX-66313](https://jira.delphix.com/browse/DLPX-66313)
-* [DLPX-66360](https://jira.delphix.com/browse/DLPX-66360)
-* [DLPX-66369](https://jira.delphix.com/browse/DLPX-66369)
 
 ## Reviews
 
@@ -28,5 +24,6 @@ modified: '2019-10-04T15:28:11.372Z'
 * https://github.com/delphix/sdb/pull/17
 * http://reviews.delphix.com/r/52930/
 * https://github.com/delphix/sdb/pull/20
+* https://github.com/zfsonlinux/zfs/pull/9409
 
 ## Waiting
