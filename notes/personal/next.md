@@ -2,13 +2,12 @@
 pinned: true
 title: personal/next
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-09-23T22:22:16.749Z'
+modified: '2019-10-09T21:03:42.512Z'
 ---
 
 ## Misc
 
 * Put bike on battery tender
-* Pay mortgage due 10/1
 * Review HSA card
 * Call about refinancing
   * BofA
