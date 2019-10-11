@@ -2,7 +2,7 @@
 pinned: true
 title: delphix/next
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-10-09T22:25:39.348Z'
+modified: '2019-10-10T16:39:24.062Z'
 ---
 
 ## Misc Tasks
@@ -14,10 +14,9 @@ modified: '2019-10-09T22:25:39.348Z'
 
 ## Projects (Current)
 
-* [DLPX-66624](https://jira.delphix.com/browse/DLPX-66624)
-
 ## Projects (Maybe)
 
+* [DLPX-66369](https://jira.delphix.com/browse/DLPX-66369)
 ## Reviews
 
 ## Waiting
