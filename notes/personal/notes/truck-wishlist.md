@@ -1,7 +1,7 @@
 ---
 title: personal/notes/truck-wishlist
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-10-02T15:15:30.780Z'
+modified: '2019-10-14T17:19:21.219Z'
 ---
 
 * [BDS 6.5" Coilover Conversion System](http://bds-suspension.com/product?ma=5&mo=27&ty=1&yr=2011-2019)
@@ -35,7 +35,7 @@ modified: '2019-10-02T15:15:30.780Z'
 * [GFC XL Platform Camper](https://gofastcampers.com/collections/campers/products/gfc-xl-platform-reservation)
   * $6950 base price
   * $575 deposit paid
-  * Expected build start date: Feb 2021
+  * Expected build start date: July 2020 ([Update](https://mail.google.com/mail/u/1/#all/FMfcgxwDrlVnZktbpCGNlPfHwsgpcnnC))
   * [Order #2650 confirmed](https://mail.google.com/mail/u/1/#inbox/FMfcgxwDqnkwSRKNzTfzNwzCSrXQqLSF)
   * [The Journey To Your New GFC Camper Has Begun - Unit #838](https://mail.google.com/mail/u/1/#inbox/FMfcgxwDqnkxrSRtNclLRSSHCPZzlwhM)
   * [GFC Leaderboard](https://gofastcampers.com/pages/leaderboard)
