@@ -2,7 +2,7 @@
 pinned: true
 title: delphix/next
 created: '1970-01-01T00:00:00.000Z'
-modified: '2019-10-17T14:25:04.175Z'
+modified: '2019-10-28T21:29:09.174Z'
 ---
 
 ## Misc Tasks
@@ -12,10 +12,11 @@ modified: '2019-10-17T14:25:04.175Z'
 
 * https://wjh-www.harvard.edu/~dtg/WILSON%20ET%20AL%202014.pdf
 
+* https://www.wezm.net/technical/2019/10/useful-command-line-tools/
+
 ## Projects (Current)
 
-* [DLPX-64458](https://jira.delphix.com/browse/DLPX-64458) (tests; waiting)
-* [DLPX-66231](https://jira.delphix.com/browse/DLPX-66231)
+* Investigate zvol timeout
 
 ## Projects (Maybe)
 
